@@ -1,0 +1,30 @@
+body {
+  background-color: #000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bree Serif', serif;
+  color: #FFF;
+}
+
+a, p, li{
+  font-family: 'Roboto', sans-serif;
+  color: #FFF;
+}
+
+.navbar-image{
+  top: 0.1em;
+  width: 4.5em;
+  height: auto;
+  position: absolute;
+
+}
+
+.icon-bar {
+  background-color: #FFF;
+
+}
+
+.navbar {
+  background-color: #5F0F4E;
+}
