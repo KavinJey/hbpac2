@@ -1,5 +1,5 @@
 body {
-  background-color: #000;
+  background-color: #22252C;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -9,7 +9,21 @@ h1, h2, h3, h4, h5, h6 {
 
 a, p, li{
   font-family: 'Roboto', sans-serif;
-  color: #FFF;
+  color: #C0B3A0;
+
+}
+
+p {
+  font-size: 2em;
+  font-size: 2.5vh;
+  text-align: center;
+  padding: 15px;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+  background-color: #3F3250;
+  color: #E14658;
+  text-decoration: none;
 }
 
 .navbar-image{
@@ -26,5 +40,5 @@ a, p, li{
 }
 
 .navbar {
-  background-color: #5F0F4E;
+  background-color: #3F3250;
 }
